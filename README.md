@@ -9,7 +9,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.4-00D4FF?style=for-the-badge&labelColor=0c101b)](https://github.com/auratype/AuraType-Releases/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-A060E0?style=for-the-badge&labelColor=0c101b)](https://github.com/auratype/AuraType-Releases/releases)
 [![License](https://img.shields.io/badge/license-Proprietary-FFD700?style=for-the-badge&labelColor=0c101b)](#)
-[![Downloads](https://img.shields.io/github/downloads/auratype/AuraType-Releases/total?color=00C060&style=for-the-badge&labelColor=0c101b)](https://github.com/auratype/AuraType-Releases/releases)
+[![Downloads](https://img.shields.io/github/downloads/auratype/AuraType-Releases/total?color=00C060&style=for-the-badge&labelColor=0c101b&cacheSeconds=300)](https://github.com/auratype/AuraType-Releases/releases)
 
 AuraType is a native Windows desktop utility that automates keyboard inputs and replicates natural human typing profiles. Engineered for speed and reliability, it works seamlessly across standard text editors, code environments, and web applications.
 
