@@ -65,11 +65,11 @@ Every machine gets a one-time 2-hour full-access trial automatically upon startu
 ### 2. Available Passes
 Once your trial completes, choose the plan that best fits your workflow:
 
-| Plan | Price | Duration | Description |
-| :--- | :---: | :---: | :--- |
-| **Midnight Pass** | ₹29 | 24 Hours | Full access for 24 hours with no commitment required. |
-| **Monthly Pro** | ₹99 | 30 Days | Unlimited access for a full month. |
-| **Annual Elite** | ₹699 | 1 Year | Best value. A full year of uninterrupted access. |
+| Plan | Duration | Description |
+| :--- | :---: | :--- |
+| **Midnight Pass** | 24 Hours | Full access for 24 hours with no commitment required. |
+| **Monthly Pro** | 30 Days | Unlimited access for a full month. |
+| **Annual Elite** | 1 Year | Best value. A full year of uninterrupted access. |
 
 ---
 
