@@ -31,8 +31,6 @@ AuraType is built to simulate physical keystrokes accurately. Unlike standard te
     Preserves indentation, spacing, and brackets when typing into web-based code editors.
 *   **Clean Output**
     Clears the target field before typing starts and hands focus back when done. No stray text is left behind.
-*   **Live Overlay**
-    A translucent status strip that shows real-time typing progress on top of any window.
 *   **Windows Compatibility**
     Built natively for Windows 10 and 11, tested across a wide range of applications out of the box.
 
@@ -57,7 +55,7 @@ Every machine gets a one-time 2-hour full-access trial automatically upon startu
 
 ### 1. Installation
 1. Navigate to the **[Releases Page](https://github.com/allenmano7/AuraType-Releases/releases)**.
-2. Download the latest installer: `AuraType_Setup_1.0.4.exe`.
+2. Download the latest installer: `AuraType_Setup_1.0.5.exe`.
 3. Run the installer on your system.
 4. If a Windows SmartScreen notification appears, select **More info** and then **Run anyway**.
 5. Launch AuraType from the Desktop shortcut.
